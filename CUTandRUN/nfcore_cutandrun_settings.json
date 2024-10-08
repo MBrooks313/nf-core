@@ -1,0 +1,49 @@
+{
+    "software_config": {
+        "Rscriptbin": "/usr/bin",
+        "pythonbin": "/opt/conda/envs/app/bin",
+        "perlbin": "/opt/conda/envs/app/bin",
+        "javabin": "/usr/bin",
+        "bowtie2bin": "/opt/conda/envs/app/bin",
+        "samtoolsbin": "/opt/conda/envs/app/bin",
+        "macs2bin": "/opt/conda/envs/app/bin",
+        "memebin": "/opt/conda/envs/meme/bin",
+        "bedopsbin": "/opt/conda/envs/app/bin",
+        "bedtoolsbin": "/opt/conda/envs/app/bin",
+        "path_deeptools": "/opt/conda/envs/app/bin",
+        "path_parallel": "/opt/conda/envs/app/bin",
+        "path_tabix": "/opt/conda/envs/app/bin",
+        "bt2idx": "/fdb/igenomes/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/",
+        "genome_sequence": "/fdb/igenomes/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa",
+        "extratoolsbin": "/data/brooksma/Tools/cutruntools2/install",
+        "extrasettings": "/data/brooksma/Tools/cutruntools2/install",
+        "kseqbin": "/opt/CUT-RUNTools-2.0/install",
+        "adapterpath": "/opt/CUT-RUNTools-2.0/adapters",
+        "trimmomaticbin": "/data/brooksma/Tools/cutruntools2/install",
+        "picardbin": "/data/brooksma/Tools/cutruntools2/install",
+        "picardjarfile": "picard-2.8.0.jar",
+        "trimmomaticjarfile": "trimmomatic-0.36.jar",
+    "makecutmatrixbin": "/opt/conda/envs/app/bin"
+    },
+    "input_output": {
+        "fastq_directory": "/<pathToFQ/FQ",
+        "workdir": "/<pathToWorkDir>/output",
+        "fastq_sequence_length": "101",
+        "organism_build": "mm10",
+        "spike_in": "TRUE",
+        "spike_in_norm": "FALSE",
+        "spikein_scale": "10000",
+        "frag_120": "TRUE",
+        "peak_caller": "macs2",
+        "dup_peak_calling": "FALSE",
+        "cores": "8",
+        "experiment_type": "CUT&RUN"
+    },
+    "motif_finding": {
+        "num_bp_from_summit": "100",
+        "num_peaks": "1000",
+        "total_peaks": "2000",
+        "motif_scanning_pval": "0.0005",
+        "num_motifs": "10"
+    }
+}
