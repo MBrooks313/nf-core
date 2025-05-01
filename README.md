@@ -13,5 +13,7 @@ This repo houses the scripts needed to run nf-core modules on the Biowulf HPC.
 
 [RNAseq pipeline](https://nf-co.re/rnaseq/3.16.0/)
 
+[scRNAseq pipeline](https://nf-co.re/scrnaseq/4.0.0/)
+
 
 
