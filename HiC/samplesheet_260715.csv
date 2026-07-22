@@ -1,0 +1,17 @@
+sample,fastq_1,fastq_2
+D358_1A,../FQ/260603_51/HC12026-001_Pre-Cap-Hi-C-358days_1A.R1.fastq.gz,../FQ/260603_51/HC12026-001_Pre-Cap-Hi-C-358days_1A.R2.fastq.gz
+D358_1B,../FQ/260603_51/HC12026-002_Pre-Cap-Hi-C-358days_1B.R1.fastq.gz,../FQ/260603_51/HC12026-002_Pre-Cap-Hi-C-358days_1B.R2.fastq.gz
+D358_2,../FQ/260603_51/HC12026-003_Pre-Cap-Hi-C-358days_2.R1.fastq.gz,../FQ/260603_51/HC12026-003_Pre-Cap-Hi-C-358days_2.R2.fastq.gz
+D758_1,../FQ/260603_51/HC12026-004_Pre-Cap-Hi-C-750days_1.R1.fastq.gz,../FQ/260603_51/HC12026-004_Pre-Cap-Hi-C-750days_1.R2.fastq.gz
+D758_2,../FQ/260603_51/HC12026-005_Pre-Cap-Hi-C-750days_2.R1.fastq.gz,../FQ/260603_51/HC12026-005_Pre-Cap-Hi-C-750days_2.R2.fastq.gz
+D358_1A,../FQ/260624_125/HC12026-001_Pre-Cap-Hi-C-358days_1A.R1.fastq.gz,../FQ/260624_125/HC12026-001_Pre-Cap-Hi-C-358days_1A.R2.fastq.gz
+D358_1B,../FQ/260624_125/HC12026-002_Pre-Cap-Hi-C-358days_1B.R1.fastq.gz,../FQ/260624_125/HC12026-002_Pre-Cap-Hi-C-358days_1B.R2.fastq.gz
+D358_2,../FQ/260624_125/HC12026-003_Pre-Cap-Hi-C-358days_2.R1.fastq.gz,../FQ/260624_125/HC12026-003_Pre-Cap-Hi-C-358days_2.R2.fastq.gz
+D758_1,../FQ/260624_125/HC12026-004_Pre-Cap-Hi-C-750days_1.R1.fastq.gz,../FQ/260624_125/HC12026-004_Pre-Cap-Hi-C-750days_1.R2.fastq.gz
+D758_2,../FQ/260624_125/HC12026-005_Pre-Cap-Hi-C-750days_2.R1.fastq.gz,../FQ/260624_125/HC12026-005_Pre-Cap-Hi-C-750days_2.R2.fastq.gz
+Control,../FQ/250220_95/HC12025-014_Day150-Control-organoids-Hi-C-1.R1.fastq.gz,../FQ/250220_95/HC12025-014_Day150-Control-organoids-Hi-C-1.R2.fastq.gz
+NRL-L75Pfs,../FQ/250220_95/HC12025-015_Day150-NRL-frameshift--Hi-C-2.R1.fastq.gz,../FQ/250220_95/HC12025-015_Day150-NRL-frameshift--Hi-C-2.R2.fastq.gz
+NRL-L75Pfs-AAV,../FQ/250220_95/HC12025-016_Day150-NRL-AAV-Hi-C-3.R1.fastq.gz,../FQ/250220_95/HC12025-016_Day150-NRL-AAV-Hi-C-3.R2.fastq.gz
+D200,../FQ/220726_15/HC12022-004_Human-organoids-Hi-C-day200.R1.fastq.gz,../FQ/220726_15/HC12022-004_Human-organoids-Hi-C-day200.R2.fastq.gz
+D200,../FQ/220802_16/HC12022-004_Human-organoids-Hi-C-day200.R1.fastq.gz,../FQ/220802_16/HC12022-004_Human-organoids-Hi-C-day200.R2.fastq.gz
+D200,../FQ/220819_17/HC12022-004_Human-organoids-Hi-C-day200.R1.fastq.gz,../FQ/220819_17/HC12022-004_Human-organoids-Hi-C-day200.R2.fastq.gz
